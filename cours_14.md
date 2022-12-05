@@ -12,7 +12,10 @@ Connexion a six salles, une salle d'attente et un corridor ramenant à l'entrée
 ![Scénarimage](https://github.com/KenzaElHarrif/Journal_de_Bord_semaines_8_15/blob/main/Images/2022-12-01%2015_42_57-sc%C3%A9narimage%20de%20Pr%C3%A9sentation_03_el-harrif_yi%20_%20Trello%20et%204%20pages%20de%20plus%20-%20Travai.png)
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![visuel 1](https://github.com/KenzaElHarrif/Journal_de_Bord_semaines_8_15/blob/main/Images/Capture%20d%E2%80%99%C3%A9cran%202022-12-04%20192644.png)
+![visuel 2](https://github.com/KenzaElHarrif/Journal_de_Bord_semaines_8_15/blob/main/Images/Capture%20d%E2%80%99%C3%A9cran%202022-12-04%20192707.png)
+![visuel 3](https://github.com/KenzaElHarrif/Journal_de_Bord_semaines_8_15/blob/main/Images/Capture%20d%E2%80%99%C3%A9cran%202022-12-04%20192747.png)
+![visuel 4](https://github.com/KenzaElHarrif/Journal_de_Bord_semaines_8_15/blob/main/Images/Capture%20d%E2%80%99%C3%A9cran%202022-12-04%20192806.png)
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
