@@ -17,8 +17,8 @@ Connexion a six salles, une salle d'attente et un corridor ramenant à l'entrée
 ![visuel 3](https://github.com/KenzaElHarrif/Journal_de_Bord_semaines_8_15/blob/main/Images/Capture%20d%E2%80%99%C3%A9cran%202022-12-04%20192747.png)
 ![visuel 4](https://github.com/KenzaElHarrif/Journal_de_Bord_semaines_8_15/blob/main/Images/Capture%20d%E2%80%99%C3%A9cran%202022-12-04%20192806.png)
 
-### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
-
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+
+L'évaluation et le concept ont déjà été réalisés, à partir de maintenant il ne reste plus que la Maquette, la Réalisation et l'Opération.
+
+Dans toutes ces étapes et tout au long du projet, nous avons besoin d'un directeur de production, d'un chargé de projet. Puis, à partir de la maquette rentre les rôles et les tâches du directeur artistique, du concepteur, d'un graphiste multimédia, on peu aussi voir des animateurs et artistes en effets visuels commencer à travailler lors de cette phase du projet. À partir de la réalisation, on peu voir le directeur technique faire son entré (et même un peu avant) et diriger tout ce qui est en lien à la programation, l'animation et les effets visuels, ainsi que la mise en place du musé interactif. L'opération est simple, on y retrouve la participation non seulement de ceux qui mettront en place le musé, mais aussi du service client, ce qui regroupe la billeterie, les guides, et tous ceux qui seront sur place lors de l'évènement.
